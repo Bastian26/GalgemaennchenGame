@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Galgennännchen {
+public class Galgenmännchen {
 static Scanner scan = new Scanner(System.in);
 static ArrayList<Character> gesuchtesWort = new ArrayList<Character>();
 static String searchedWord;
